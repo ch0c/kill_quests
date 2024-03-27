@@ -1,9 +1,10 @@
 # kill_quests
 Kill AI for Rewards. 
 
-
 Players will be give a quest to kill a group of up to 11 heroes or bandits. 
 They must hand in the quest when complete and before dying.
+
+<img src="https://i.imgur.com/3vxYlrK.png"/>
 
 
 You can execute it however you want.
