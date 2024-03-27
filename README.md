@@ -14,7 +14,7 @@ You can execute it however you want.
 Example using fn_selfActions.sqf
 
 Paste
-```
+```c++
 
 	if ( _cursorTarget isKindOf "Info_Board_EP1") then {
     if (s_player_getQuest < 0) then {
